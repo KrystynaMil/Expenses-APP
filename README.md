@@ -25,7 +25,7 @@
 
 ## Setup
 
-- `run npm start` 
+- `run npm i` 
 - `npm start`
 
 
