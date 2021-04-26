@@ -14,7 +14,7 @@
 > This is a react front-end app. The App is called "Expenses-APP" and it is a simple list of expenses by year that allows the users to see/add and filter by year  their expenses.
 ## Screenshots
 
-![Example screenshot]()
+![Example screenshot](./public/screenshort.png)
 
 ## Technologies
 
